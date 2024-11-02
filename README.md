@@ -1,6 +1,6 @@
  <h1>Comprehensive Stock Analysis Dashboard</h1>
 
-Dashboard Link: https://app.powerbi.com/links/B72wkRNk5S?ctid=acc8e57f-9861-4109-860d-46817fa856d0&pbi_source=linkShare
+Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiYzYyNzIyY2MtZGE5ZC00ZWVlLTk0OTktNmM2OWQ5ZjgwZWQzIiwidCI6ImFjYzhlNTdmLTk4NjEtNDEwOS04NjBkLTQ2ODE3ZmE4NTZkMCJ9
 
 <h1>Project Description:</h1>
 
