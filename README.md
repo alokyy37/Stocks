@@ -38,5 +38,5 @@ Key Insights:
 2. Volume Surges: High-volume days align with notable price movements, possibly indicating investor reactions to news or financial announcements.
 3. Trends Over Time: The dashboard enables the identification of both long-term trends and short-term fluctuations, facilitating a balanced analysis.
 
-Conclusion:
+<h1>Conclusion:</h1>
 This Power BI dashboard offers a powerful, data-driven tool for tracking Apple Inc.'s stock performance. It serves as a valuable resource for analysts and investors by providing essential stock metrics and visualizations, helping them make informed decisions based on historical price trends and trading volumes.
