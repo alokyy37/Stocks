@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
 Comprehensive Stock Analysis Dashboard
 
 Project Description:
